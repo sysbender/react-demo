@@ -22,7 +22,7 @@ npx  create-react-app react-demo
 accept input properties and return html which describe the UI
 
 * function
-* outer tag   
+* outer tag  - wrap with outer tag, since only one element should return 
 * export default  
 
 ```javascript
@@ -35,4 +35,33 @@ function APP(){
 export default App;
 }
 ```
+### component property
+
+specify attribute 
+
+`<Greet name="John">`
+
+### props.children
+
+props is immutable
+## JSX
+
+jsx : 
+* 
+1. react element  
+2. object
+3. DOM
+
+
+
+
+### vs js
+Class - className
+for - htmlFor
+camelCase property name
+onclick - onClick
+tabindex - tabIndex
+
+
+
 
