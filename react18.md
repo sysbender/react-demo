@@ -81,5 +81,10 @@ string,            function
 
 ## parent and child component communication
 
+* parent pass props to child component
+   1. data in parent component, pass by props
+* child to parent
+  * parent pass a function as props
+
 
 
