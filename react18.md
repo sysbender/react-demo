@@ -65,7 +65,21 @@ tabindex - tabIndex
 ## state
 
 useState Hook
-
+useEffect
+useTransition
  
+
+### hook
+ 
+## event
+compare to event handler in js
+in js, in react
+lowercase onclick, camelcase onClick
+string,            function
+
+### pass parameter to eventHandler
+
+## parent and child component communication
+
 
 

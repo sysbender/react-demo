@@ -1,4 +1,5 @@
 import "./App.css";
+import { EventHandler } from "./components/EventHandler";
 import "./components/Greet";
 import { Greet } from "./components/Greet";
 import { Message } from "./components/Message";
@@ -13,6 +14,7 @@ function App() {
       </Greet> */}
 
       <Message />
+      <EventHandler />
     </div>
   );
 }
